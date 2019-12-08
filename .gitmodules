@@ -1,3 +1,6 @@
 [submodule "hadoop-docker"]
 	path = hadoop-docker
 	url = https://github.com/pawel717-MiNADZD/hadoop-docker.git
+[submodule "Trending-YouTube-Scraper"]
+	path = Trending-YouTube-Scraper
+	url = https://github.com/pawel717-MiNADZD/Trending-YouTube-Scraper.git
